@@ -1,5 +1,5 @@
 {
-    "name": "Leaveyou/byte-size",
+    "name": "leaveyou/byte-size",
     "type": "library",
     "description": "Class for storing and representing computer data sizes.",
     "keywords": ["bytes","size", "human", ""],
