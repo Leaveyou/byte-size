@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Leaveyou;
+namespace Leaveyou\Bytes;
 
 class Bytes
 {
