@@ -1,6 +1,7 @@
 {
     "name": "leaveyou/byte-size",
     "type": "library",
+    "version": "0.0.1"
     "description": "Class for storing and representing computer data sizes.",
     "keywords": ["bytes","size", "human", ""],
     "homepage": "https://github.com/Leaveyou/byte-size",
