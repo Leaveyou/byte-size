@@ -1,2 +1,2 @@
 # byte-size
-Class for storing and representing computer datas sizes
+Class for storing and representing computer data sizes
